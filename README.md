@@ -2,14 +2,14 @@
 ## Object Oriented Scripting
 
 ###Class Objectives
--Objects
--Classes
--Methods/Functions
--Properties
--Attributes
--Methods
--Object Constructors
--Prototypes
--this
--Framkework7
+- Objects
+- Classes
+- Methods/Functions
+- Properties
+- Attributes
+- Methods
+- Object Constructors
+- Prototypes
+- this
+- Framkework7
 
